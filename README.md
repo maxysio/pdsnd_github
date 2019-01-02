@@ -11,5 +11,5 @@ This python project analyzes the Bikeshare data from 3 cities
 Data files used are chicago.csv, washington.csv and new_york_city.csv not in the github repo
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity and stackexchange helped make this project. Thanks to the super helpfule posts and course
 
