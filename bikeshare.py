@@ -286,7 +286,7 @@ def main():
         if restart.lower() != 'yes' and restart.lower() != 'y':
             break
 
-    print('\nThank you for trying out the application. See you later\n')
+    print('\nThank you for trying out the application. Hope to see you again\n')
 
 if __name__ == "__main__":
 	main()
