@@ -282,7 +282,7 @@ def main():
             # User info
             user_stats(df, city)
 
-        restart = input('\nWe are done with all the statistics. Would you like to start again or quit the application? Enter yes(y) or no(n) or pretty much anything other than y).\n')
+        restart = input('\nWe have computed all the statistics. Would you like to start again or quit the application? Enter yes(y) or no(n) or pretty much anything other than y).\n')
         if restart.lower() != 'yes' and restart.lower() != 'y':
             break
 
