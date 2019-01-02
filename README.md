@@ -5,7 +5,7 @@ This project was created on 1st Jan 2019 and the ReadMe file was updated on 2nd 
 Data Science Project 
 
 ### Description
-Describe what your project is about and what it does
+This python project analyzes the Bikeshare data from 3 cities
 
 ### Files used
 Include the files used
